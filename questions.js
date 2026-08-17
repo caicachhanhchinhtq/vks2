@@ -2030,7 +2030,7 @@ window.allQuestions = [
       "45 ngày.",
       "90 ngày"
     ],
-    "correct_answer": "60 ngày."
+    "correct_answer": "15 ngày."
   },
   {
     "id": 186,
