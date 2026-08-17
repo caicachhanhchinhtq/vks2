@@ -287,7 +287,7 @@ window.allQuestions = [
   },
   {
     "id": 27,
-    "question": "Trong quá trình thực hiện Nghị quyết 205 và Thông tư 09/2025 về hướng dẫn thi hành Nghị quyết số 205/2025/QH15, tại địa phương chưa thực hiện thí điểm, nhiệm vụ quan trọng nhất của VKS là:",
+    "question": "Trong quá trình thực hiện Nghị quyết 205 và Thông tư 09/2025 về hướng dẫn thi hành Nghị quyết số 205/2025/QH15,  tại địa phương chưa thực hiện thí điểm, nhiệm vụ quan trọng nhất của VKS là:",
     "answers": [
       "Trực tiếp khởi kiện tất cả các vụ việc dân sự công ích.",
       "Chỉ tham gia phiên tòa.",
@@ -540,7 +540,7 @@ window.allQuestions = [
   },
   {
     "id": 50,
-    "question": "Theo Luật tố tụng hành chính năm 2015 (sửa đổi, bổ sung năm 2025), Viện kiểm sát đối với biện pháp khẩn cấp tạm thời có quyền nào sau đây?",
+    "question": "Theo Luật tố tụng hành chính năm 2015 (sửa đổi, bổ sung năm 2025),  Viện kiểm sát đối với biện pháp khẩn cấp tạm thời có quyền nào sau đây?",
     "answers": [
       "Không có bất kỳ quyền nào.",
       "Chỉ được phát biểu ý kiến tại phiên tòa.",
@@ -1970,7 +1970,7 @@ window.allQuestions = [
   },
   {
     "id": 180,
-    "question": "Sau khi trực tiếp kiểm sát việc giải quyết khiếu nại, tố cáo\\... Viện kiểm sát không ban hành kết luận kiểm sát mà thực hiện ngay quyền kiến nghị, kháng nghị?",
+    "question": "Sau khi trực tiếp kiểm sát việc giải quyết khiếu nại, tố cáo... Viện kiểm sát không ban hành kết luận kiểm sát mà thực hiện ngay quyền kiến nghị, kháng nghị?",
     "answers": [
       "Viện kiểm sát phải ban hành kết luận kiểm sát sau khi kết thúc kiểm sát trực tiếp.",
       "Ban hành văn bản thông báo rút kinh nghiệm.",
@@ -2333,5 +2333,525 @@ window.allQuestions = [
       "Chủ tịch Ủy ban nhân dân cấp tỉnh."
     ],
     "correct_answer": "Thủ trưởng Cơ quan thi hành án dân sự cấp tỉnh, thành phố thuộc quyền quản lý."
+  },
+  {
+    "id": 214,
+    "question": "Việc thi hành án dân sự kết thúc trong trường hợp nào?",
+    "answers": [
+      "Có quyết định chưa có điều kiện thi hành án",
+      "Có quyết định tạm đình chỉ thi hành án",
+      "Có quyết định hoãn thi hành án",
+      "Có quyết định đình chỉ thi hành án"
+    ],
+    "correct_answer": "Có quyết định đình chỉ thi hành án"
+  },
+  {
+    "id": 215,
+    "question": "Thời hạn Tòa án mở phiên họp xét miễn, giảm nghĩa vụ thi hành án dân sự?",
+    "answers": [
+      "10 ngày kể từ ngày thụ lý hồ sơ",
+      "15 ngày kể từ ngày thụ lý hồ sơ",
+      "20 ngày kể từ ngày thụ lý hồ sơ",
+      "30 ngày, kể từ ngày thụ lý hồ sơ"
+    ],
+    "correct_answer": "20 ngày kể từ ngày thụ lý hồ sơ"
+  },
+  {
+    "id": 216,
+    "question": "Thời hạn Thủ trưởng cơ quan thi hành án dân sự ra quyết định về việc chưa có điều kiện khi chưa xác định được địa chỉ, nơi cư trú của người được giao cho người khác nuôi dưỡng hoặc chưa xác định được địa chỉ, nơi cư trú của người được giao nuôi dưỡng là bao lâu?",
+    "answers": [
+      "02 ngày làm việc kể từ ngày có căn cứ",
+      "03 ngày làm việc kể từ ngày có căn cứ",
+      "05 ngày làm việc kể từ ngày có căn cứ",
+      "07 ngày làm việc kể từ ngày có căn cứ"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày có căn cứ"
+  },
+  {
+    "id": 217,
+    "question": "Khi kiểm sát THADS, VKSND có quyền tham gia phiên họp, phát biểu quan điểm của VKSND về việc xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước.",
+    "answers": [
+      "Đúng?",
+      "Sai"
+    ],
+    "correct_answer": "Đúng?"
+  },
+  {
+    "id": 218,
+    "question": "VKSND có quyền kiểm sát hoạt động của cơ quan, tổ chức, cá nhân có liên quan trong việc thi hành án dân sự. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 219,
+    "question": "Thời hạn cơ quan thi hành án dân sự từ chối yêu cầu thi hành án, thông báo cho người yêu cầu trong trường hợp người yêu cầu không có quyền yêu cầu thi hành án, là bao lâu?",
+    "answers": [
+      "02 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án",
+      "03 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án",
+      "05 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án",
+      "07 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án"
+  },
+  {
+    "id": 220,
+    "question": "Thời hạn tự nguyện thi hành án dân sự là bao lâu?",
+    "answers": [
+      "05 ngày kể từ ngày người phải thi hành án được thông báo hợp lệ quyết định thi hành án.",
+      "10 ngày kể từ ngày người phải thi hành án được thông báo hợp lệ quyết định thi hành án.",
+      "10 ngày kể từ ngày người phải thi hành án được thông báo hợp lệ quyết định thi hành án, trừ trường hợp thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời",
+      "15 ngày kể từ ngày người phải thi hành án được thông báo hợp lệ quyết định thi hành án, trừ trường hợp thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời"
+    ],
+    "correct_answer": "10 ngày kể từ ngày người phải thi hành án được thông báo hợp lệ quyết định thi hành án, trừ trường hợp thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời"
+  },
+  {
+    "id": 221,
+    "question": "Không tổ chức cưỡng chế thi hành án trong thời gian nào sau đây:",
+    "answers": [
+      "Từ 20 giờ đến 06 giờ sáng ngày hôm sau",
+      "Từ 20 giờ đến 07 giờ sáng ngày hôm sau",
+      "Từ 22 giờ đến 06 giờ sáng ngày hôm sau",
+      "Từ 22 giờ đến 07 giờ sáng ngày hôm sau"
+    ],
+    "correct_answer": "Từ 22 giờ đến 06 giờ sáng ngày hôm sau"
+  },
+  {
+    "id": 222,
+    "question": "Thời hạn Chấp hành viên phải tiến hành xác minh điều kiện thi hành án khi nhận được văn bản cung cấp thông tin mới về điều kiện thi hành án của người phải thi hành án là bao lâu?",
+    "answers": [
+      "03 ngày kể từ ngày nhận được văn bản của đương sự hoặc cơ quan, tổ chức, cá nhân khác cung cấp thông tin mới.",
+      "05 ngày kể từ ngày nhận được văn bản của đương sự hoặc cơ quan, tổ chức, cá nhân khác cung cấp thông tin mới.",
+      "10 ngày kể từ ngày nhận được văn bản của đương sự hoặc cơ quan, tổ chức, cá nhân khác cung cấp thông tin mới.",
+      "15 ngày kể từ ngày nhận được văn bản của đương sự hoặc cơ quan, tổ chức, cá nhân khác cung cấp thông tin mới."
+    ],
+    "correct_answer": "10 ngày kể từ ngày nhận được văn bản của đương sự hoặc cơ quan, tổ chức, cá nhân khác cung cấp thông tin mới."
+  },
+  {
+    "id": 223,
+    "question": "Thành phần phiên họp xét miễn, giảm nghĩa vụ thi hành án dân sự bao gồm:",
+    "answers": [
+      "Thẩm phán",
+      "Viện kiểm sát cùng cấp",
+      "Cơ quan thi hành án dân sự đã đề nghị xét miễn, giảm",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 224,
+    "question": "Trường hợp nào sau đây là Biện pháp bảo đảm thi hành án dân sự:",
+    "answers": [
+      "Tạm ngừng giao dịch, tạm dừng việc đăng ký, chuyển quyền sở hữu, quyền sử dụng, thay đổi hiện trạng tài sản;",
+      "Khấu trừ tiền trong tài khoản, thư tiền, xử lý giấy tờ có giá;",
+      "Kê biên, xử lý tài sản, kể cả tài sản đang do người thứ ba giữ;",
+      "Giao tài sản, vật, giấy tờ;"
+    ],
+    "correct_answer": "Tạm ngừng giao dịch, tạm dừng việc đăng ký, chuyển quyền sở hữu, quyền sử dụng, thay đổi hiện trạng tài sản;"
+  },
+  {
+    "id": 225,
+    "question": "Số tiền khấu trừ không được vượt quá nghĩa vụ thi hành án.",
+    "answers": [
+      "Đúng?",
+      "Sai"
+    ],
+    "correct_answer": "Sai"
+  },
+  {
+    "id": 226,
+    "question": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định hoãn một phần hoặc toàn bộ việc thi hành án khi người phải thi hành án bị ốm nặng, có xác nhận của cơ sở y tế từ cấp cơ bản trở lên; bị mất hoặc bị hạn chế năng lực hành vi dân sự theo quyết định của Tòa án. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Sai"
+  },
+  {
+    "id": 227,
+    "question": "Việc chuyển giao quyền và nghĩa vụ thi hành án dân sự đối với tổ chức được thực hiện trong trường hợp phá sản thì quyền, nghĩa vụ thi hành án được thực hiện theo quyết định về phá sản. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 228,
+    "question": "Thời hạn kháng nghị theo thủ tục phúc thẩm của Viện kiểm sát cùng cấp đối với quyết định của Tòa án về miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước là bao lâu?",
+    "answers": [
+      "03 ngày kể từ ngày nhận được quyết định;",
+      "05 ngày kể từ ngày nhận được quyết định;",
+      "07 ngày kể từ ngày nhận được quyết định;",
+      "10 ngày kể từ ngày nhận được quyết định;"
+    ],
+    "correct_answer": "07 ngày kể từ ngày nhận được quyết định;"
+  },
+  {
+    "id": 229,
+    "question": "Trong thời hạn 10 ngày, kể từ ngày có đủ căn cứ xác định tài sản, giấy tờ tạm giữ thuộc quyền sở hữu, sử dụng của người phải thi hành án dân sự, Chấp hành viên phải ra quyết định áp dụng biện pháp cưỡng chế theo quy định của Luật THADS 2025. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 230,
+    "question": "Người được thi hành án là cá nhân, cơ quan, tổ chức được hưởng quyền, lợi ích trong bản án, quyết định được thi hành.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 231,
+    "question": "Người phải thi hành án là cá nhân, cơ quan, tổ chức phải thực hiện nghĩa vụ trong bản án, quyết định được thi hành, bao gồm cả người có tài sản bảo đảm trong phạm vi nghĩa vụ mà họ bảo đảm. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 232,
+    "question": "Quy định thời hạn Thủ trưởng cơ quan thi hành án dân sự ra quyết định thi hành án khi có yêu cầu thi hành án là bao lâu?",
+    "answers": [
+      "03 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án và bản án, quyết định;",
+      "05 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án và bản án, quyết định;",
+      "07 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án và bản án, quyết định;",
+      "10 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án và bản án, quyết định;"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày nhận được yêu cầu thi hành án và bản án, quyết định;"
+  },
+  {
+    "id": 233,
+    "question": "Người được thi hành án có quyền tự mình hoặc ủy quyền cho người khác xác minh điều kiện thi hành án. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 234,
+    "question": "Thẩm quyền xét miễn giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước thuộc Tòa án nhân dân cấp tỉnh, các Tòa án nhân dân khu vực nơi cơ quan thi hành án dân sự đang tổ chức việc thi hành án có trụ sở. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Sai"
+  },
+  {
+    "id": 235,
+    "question": "Khai thác tài sản của người phải thi hành án là một trong những biện pháp cưỡng chế thi hành án dân sự. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 236,
+    "question": "Khi kê biên tài sản là công trình xây dựng gắn liền với đất phải kê biên cả quyền sử dụng đất trong mọi trường hợp. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Sai"
+  },
+  {
+    "id": 237,
+    "question": "Phí thi hành án là khoản tiền mà đương sự phải nộp khi có quyết định thi hành án theo yêu cầu. Nhận định trên đúng hay sai?",
+    "answers": [
+      "Sai",
+      "Sai"
+    ],
+    "correct_answer": "Sai"
+  },
+  {
+    "id": 238,
+    "question": "Số lần xét miễn nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước trong một năm quy định như thế nào?",
+    "answers": [
+      "Chỉ được xét miễn một lần trong 01 năm đối với mỗi bản án, quyết định.",
+      "Chỉ được xét miễn hai lần trong 01 năm đối với mỗi bản án, quyết định.",
+      "Được xét miễn nhiều lần trong 01 năm đối với mỗi bản án, quyết định, tùy trường hợp cụ thể.",
+      "Tất cả các phương án trên đều sai."
+    ],
+    "correct_answer": "Chỉ được xét miễn một lần trong 01 năm đối với mỗi bản án, quyết định."
+  },
+  {
+    "id": 239,
+    "question": "Thời hạn hoãn thi hành án theo yêu cầu của người có thẩm quyền kháng nghị bản án, quyết định là bao lâu?",
+    "answers": [
+      "Không quá 01 tháng kể từ ngày ra văn bản yêu cầu hoãn thi hành án;",
+      "Không quá 02 tháng kể từ ngày ra văn bản yêu cầu hoãn thi hành án;",
+      "Không quá 03 tháng kể từ ngày ra văn bản yêu cầu hoãn thi hành án;",
+      "Không quá 04 tháng kể từ ngày ra văn bản yêu cầu hoãn thi hành án;"
+    ],
+    "correct_answer": "Không quá 03 tháng kể từ ngày ra văn bản yêu cầu hoãn thi hành án;"
+  },
+  {
+    "id": 240,
+    "question": "Thời hạn Thủ trưởng cơ quan thi hành án dân sự nhận ủy thác ra quyết định xử lý tài sản ủy thác là bao lâu?",
+    "answers": [
+      "02 ngày làm việc kể từ ngày nhận được quyết định ủy thác xử lý tài sản",
+      "03 ngày làm việc kể từ ngày nhận được quyết định ủy thác xử lý tài sản",
+      "05 ngày làm việc kể từ ngày nhận được quyết định ủy thác xử lý tài sản",
+      "07 ngày làm việc kể từ ngày nhận được quyết định ủy thác xử lý tài sản"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày nhận được quyết định ủy thác xử lý tài sản"
+  },
+  {
+    "id": 241,
+    "question": "Người có thẩm quyền ra quyết định về thi hành án thu hồi quyết định về thi hành án trong trường hợp nào sau đây:",
+    "answers": [
+      "Quyết định về thi hành án được ban hành không đúng thẩm quyền",
+      "Quyết định về thi hành án có sai sót",
+      "Quyết định về thi hành án bị khiếu nại, tố cáo",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answer": "Quyết định về thi hành án được ban hành không đúng thẩm quyền"
+  },
+  {
+    "id": 242,
+    "question": "Thời hạn Thủ trưởng cơ quan thi hành án dân sự ra quyết định thành lập Hội đồng tiêu hủy vật chứng, tài sản trong trường hợp Bản án, quyết định tuyên tiêu hủy vật chứng, tài sản là bao lâu?",
+    "answers": [
+      "10 ngày kể từ ngày ra quyết định thi hành án",
+      "15 ngày kể từ ngày ra quyết định thi hành án",
+      "01 tháng kể từ ngày ra quyết định thi hành án",
+      "30 ngày kể từ ngày ra quyết định thi hành án"
+    ],
+    "correct_answer": "01 tháng kể từ ngày ra quyết định thi hành án"
+  },
+  {
+    "id": 243,
+    "question": "Chọn phương án đúng. Hội đồng tiêu hủy vật chứng, tài sản gồm:",
+    "answers": [
+      "Chấp hành viên, đại diện Ủy ban nhân dân cấp xã nơi tổ chức tiêu hủy, đại diện Viện kiểm sát nhân dân có thẩm quyền",
+      "Chấp hành viên, đại diện Ủy ban nhân dân cấp xã nơi tổ chức tiêu hủy, đại diện cơ quan chuyên môn tham gia Hội đồng khi cần thiết",
+      "Chấp hành viên, đại diện Ủy ban nhân dân cấp xã nơi tổ chức tiêu hủy, đại diện cơ quan chuyên môn tham gia Hội đồng khi cần thiết, Ủy ban nhân dân cấp xã, cơ quan chuyên môn có trách nhiệm cử đại diện tham gia Hội đồng tiêu hủy vật chứng.",
+      "Chấp hành viên, đại diện Ủy ban nhân dân cấp xã nơi tổ chức tiêu hủy, đại diện cơ quan chuyên môn tham gia Hội đồng khi cần thiết, Ủy ban nhân dân cấp xã, cơ quan chuyên môn có trách nhiệm cử đại diện tham gia Hội đồng tiêu hủy vật chứng, đại diện Viện kiểm sát nhân dân có thẩm quyền"
+    ],
+    "correct_answer": "Chấp hành viên, đại diện Ủy ban nhân dân cấp xã nơi tổ chức tiêu hủy, đại diện cơ quan chuyên môn tham gia Hội đồng khi cần thiết, Ủy ban nhân dân cấp xã, cơ quan chuyên môn có trách nhiệm cử đại diện tham gia Hội đồng tiêu hủy vật chứng."
+  },
+  {
+    "id": 244,
+    "question": "Thời hạn Chấp hành viên thông báo quyết định thi hành án cho đương sự thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời để thi hành là bao lâu?",
+    "answers": [
+      "Thực hiện ngay kể từ khi nhận được quyết định thi hành án",
+      "12 giờ kể từ khi nhận được quyết định thi hành án",
+      "24 giờ kể từ khi nhận được quyết định thi hành án",
+      "02 ngày kể từ khi nhận được quyết định thi hành án"
+    ],
+    "correct_answer": "24 giờ kể từ khi nhận được quyết định thi hành án"
+  },
+  {
+    "id": 245,
+    "question": "Sau khi ra quyết định áp dụng biện pháp bảo đảm, thời hạn Chấp hành viên áp dụng biện pháp cưỡng chế như thế nào?",
+    "answers": [
+      "05 ngày kể từ ngày có đủ căn cứ áp dụng biện pháp cưỡng chế",
+      "07 ngày kể từ ngày có đủ căn cứ áp dụng biện pháp cưỡng chế",
+      "10 ngày kể từ ngày có đủ căn cứ áp dụng biện pháp cưỡng chế",
+      "15 ngày kể từ ngày có đủ căn cứ áp dụng biện pháp cưỡng chế"
+    ],
+    "correct_answer": "10 ngày kể từ ngày có đủ căn cứ áp dụng biện pháp cưỡng chế"
+  },
+  {
+    "id": 246,
+    "question": "Thời hạn thông báo Quyết định tạm hoãn xuất cảnh cho cơ quan có thẩm quyền quản lý xuất nhập cảnh?",
+    "answers": [
+      "03 ngày kể từ ngày ban hành",
+      "05 ngày kể từ ngày ban hành",
+      "07 ngày kể từ ngày ban hành",
+      "Thông báo ngay"
+    ],
+    "correct_answer": "Thông báo ngay"
+  },
+  {
+    "id": 247,
+    "question": "Trường hợp nào sau đây không phải biện pháp cưỡng chế thi hành án?",
+    "answers": [
+      "Khấu trừ tiền trong tài khoản, thư tiền, xử lý giấy tờ có giá",
+      "Trừ vào thu nhập",
+      "Tạm giữ tài sản, giấy tờ;",
+      "Kê biên, xử lý tài sản, kể cả tài sản đang do người thứ ba giữ"
+    ],
+    "correct_answer": "Tạm giữ tài sản, giấy tờ;"
+  },
+  {
+    "id": 248,
+    "question": "Căn cứ nào sau đây không phải căn cứ ra quyết định cưỡng chế thi hành án?",
+    "answers": [
+      "Bản án, quyết định",
+      "Quyết định thi hành án",
+      "Theo yêu cầu của người phải thi hành án",
+      "Người phải thi hành án có điều kiện mà không tự nguyện thi hành án"
+    ],
+    "correct_answer": "Theo yêu cầu của người phải thi hành án"
+  },
+  {
+    "id": 249,
+    "question": "Thời hạn Chấp hành viên ra quyết định giảm giá để tiếp tục đấu giá tài sản trong thời hạn là bao lâu?",
+    "answers": [
+      "02 ngày làm việc kể từ ngày nhận được thông báo về việc tài sản đấu giá không thành",
+      "03 ngày làm việc kể từ ngày nhận được thông báo về việc tài sản đấu giá không thành",
+      "05 ngày làm việc kể từ ngày nhận được thông báo về việc tài sản đấu giá không thành",
+      "07 ngày làm việc kể từ ngày nhận được thông báo về việc tài sản đấu giá không thành"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày nhận được thông báo về việc tài sản đấu giá không thành"
+  },
+  {
+    "id": 250,
+    "question": "Giới hạn tỷ lệ giảm giá tài sản trong đấu giá không thành giữa các lần đấu giá liền kề là bao nhiêu?",
+    "answers": [
+      "Mỗi lần giảm giá không quá 03% giá khởi điểm của lần đầu giá liền kề trước đó.",
+      "Mỗi lần giảm giá không quá 05% giá khởi điểm của lần đầu giá liền kề trước đó.",
+      "Mỗi lần giảm giá không quá 10% giá khởi điểm của lần đầu giá liền kề trước đó.",
+      "Mỗi lần giảm giá không quá 12% giá khởi điểm của lần đầu giá liền kề trước đó."
+    ],
+    "correct_answer": "Mỗi lần giảm giá không quá 10% giá khởi điểm của lần đầu giá liền kề trước đó."
+  },
+  {
+    "id": 251,
+    "question": "Chấp hành viên có quyền yêu cầu tổ chức hành nghề đấu giá tài sản, Hội đồng đấu giá tài sản dừng việc tổ chức đấu giá tài sản trong trường hợp:",
+    "answers": [
+      "Quyết định tạm đình chỉ thi hành án",
+      "Quyết định hoãn thi hành án",
+      "Có căn cứ xác định tài sản đấu giá không đủ điều kiện đưa ra đấu giá",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answer": "Có căn cứ xác định tài sản đấu giá không đủ điều kiện đưa ra đấu giá"
+  },
+  {
+    "id": 252,
+    "question": "Thời hiệu khiếu nại lần đầu đối với quyết định, hành vi về thi hành án trước khi có quyết định áp dụng biện pháp bảo đảm, biện pháp cưỡng chế là bao lâu kể từ ngày được thông báo hợp lệ quyết định hoặc biết được hành vi đó?",
+    "answers": [
+      "07 ngày",
+      "10 ngày",
+      "15 ngày",
+      "30 ngày"
+    ],
+    "correct_answer": "15 ngày"
+  },
+  {
+    "id": 253,
+    "question": "Thời hiệu khiếu nại về thi hành án dân sự lần hai là bao lâu?",
+    "answers": [
+      "07 ngày kể từ ngày được thông báo hợp lệ quyết định giải quyết khiếu nại lần đầu",
+      "10 ngày kể từ ngày được thông báo hợp lệ quyết định giải quyết khiếu nại lần đầu",
+      "15 ngày kể từ ngày được thông báo hợp lệ quyết định giải quyết khiếu nại lần đầu",
+      "30 ngày kể từ ngày được thông báo hợp lệ quyết định giải quyết khiếu nại lần đầu"
+    ],
+    "correct_answer": "15 ngày kể từ ngày được thông báo hợp lệ quyết định giải quyết khiếu nại lần đầu"
+  },
+  {
+    "id": 254,
+    "question": "Trường hợp nào sau đây khiếu nại không được thụ lý giải quyết?",
+    "answers": [
+      "Quyết định, hành vi bị khiếu nại không liên quan trực tiếp đến quyền, lợi ích hợp pháp của người khiếu nại",
+      "Người khiếu nại không có năng lực hành vi dân sự đầy đủ mà không có người đại diện hợp pháp, trừ trường hợp pháp luật có quy định khác",
+      "Việc khiếu nại đã có quyết định giải quyết khiếu nại có hiệu lực thi hành",
+      "Tất cả các phương án trên đều đúng."
+    ],
+    "correct_answer": "Tất cả các phương án trên đều đúng."
+  },
+  {
+    "id": 255,
+    "question": "Thời hạn kháng nghị của Viện kiểm sát nhân dân khu vực đối với quyết định, hành vi trong việc thi hành án là bao lâu?",
+    "answers": [
+      "07 ngày kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm",
+      "10 ngày kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm",
+      "15 ngày kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm",
+      "30 ngày kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm"
+    ],
+    "correct_answer": "15 ngày kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm"
+  },
+  {
+    "id": 256,
+    "question": "Thời hạn kháng nghị của Viện kiểm sát nhân dân có thẩm quyền đối với trường hợp việc thi hành án đã kết thúc là bao lâu?",
+    "answers": [
+      "03 tháng kể từ ngày Viện kiểm sát nhân dân có thẩm quyền nhận được thông báo về kết thúc việc thi hành án",
+      "06 tháng kể từ ngày Viện kiểm sát nhân dân có thẩm quyền nhận được thông báo về kết thúc việc thi hành án",
+      "01 năm kể từ ngày Viện kiểm sát nhân dân có thẩm quyền nhận được thông báo về kết thúc việc thi hành án",
+      "02 năm kể từ ngày Viện kiểm sát nhân dân có thẩm quyền nhận được thông báo về kết thúc việc thi hành án"
+    ],
+    "correct_answer": "01 năm kể từ ngày Viện kiểm sát nhân dân có thẩm quyền nhận được thông báo về kết thúc việc thi hành án"
+  },
+  {
+    "id": 257,
+    "question": "Trường hợp chấp nhận kháng nghị, kiến nghị của Viện kiểm sát nhân dân thì trong thời hạn 05 ngày làm việc kể từ ngày có văn bản trả lời kháng nghị, kiến nghị, Thủ trưởng cơ quan thi hành án dân sự, Trưởng văn phòng thi hành án dân sự phải thực hiện kháng nghị, kiến nghị của Viện kiểm sát nhân dân.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 258,
+    "question": "Trường hợp không nhất trí với kháng nghị thì Thủ trưởng cơ quan thi hành án dân sự, Trưởng văn phòng thi hành án dân sự có văn bản đề nghị Viện kiểm sát nhân dân đã kháng nghị xem xét lại kháng nghị. Trong thời hạn 10 ngày kể từ ngày nhận được văn bản đề nghị, Viện kiểm sát nhân dân phải có văn bản trả lời. Nhận định nêu trên đúng hay sai?",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer": "Đúng"
+  },
+  {
+    "id": 259,
+    "question": "Thời hạn Chấp hành viên thông báo cho Viện kiểm sát nhân dân có thẩm quyền trước khi kê biên tài sản là bất động sản là bao lâu?",
+    "answers": [
+      "Ít nhất 01 ngày làm việc",
+      "Ít nhất 02 ngày làm việc",
+      "Ít nhất 03 ngày làm việc",
+      "Ít nhất 04 ngày làm việc"
+    ],
+    "correct_answer": "Ít nhất 03 ngày làm việc"
+  },
+  {
+    "id": 260,
+    "question": "Thời hạn Chấp hành viên bán tài sản không qua thủ tục đấu giá đối với động sản có giá trị nhỏ hoặc tài sản là hàng hóa, vật phẩm dễ bị hư hỏng là bao lâu?",
+    "answers": [
+      "03 ngày làm việc kể từ ngày có kết quả xác định giá",
+      "04 ngày làm việc kể từ ngày có kết quả xác định giá",
+      "05 ngày làm việc kể từ ngày có kết quả xác định giá",
+      "07 ngày làm việc kể từ ngày có kết quả xác định giá"
+    ],
+    "correct_answer": "05 ngày làm việc kể từ ngày có kết quả xác định giá"
+  },
+  {
+    "id": 261,
+    "question": "Trường hợp nào sau đây Thủ trưởng cơ quan thi hành án dân sự chủ động ra quyết định thi hành án đối với phần bản án, quyết định:",
+    "answers": [
+      "Hình phạt tiền, truy thu tiền, tài sản thu lợi bất chính, án phí, lệ phí Tòa án;",
+      "Trả lại tiền, tài sản, vật, giấy tờ cho đương sự;",
+      "Tịch thu sung quỹ nhà nước, các khoản thu khác cho Nhà nước; tịch thu tiêu hủy vật chứng, tài sản;",
+      "Tất cả các phương án trên"
+    ],
+    "correct_answer": "Tất cả các phương án trên"
+  },
+  {
+    "id": 262,
+    "question": "Thời hạn chủ động ra quyết định thi hành án đối với Quyết định áp dụng biện pháp khẩn cấp tạm thời là bao lâu?",
+    "answers": [
+      "05 ngày kể từ ngày nhận được quyết định",
+      "07 ngày kể từ ngày nhận được quyết định",
+      "Ngay sau khi nhận được quyết định",
+      "10 ngày kể từ ngày nhận được quyết định"
+    ],
+    "correct_answer": "Ngay sau khi nhận được quyết định"
+  },
+  {
+    "id": 263,
+    "question": "Thời hạn Chấp hành viên tiến hành xác minh trong trường hợp người phải thi hành án không tự nguyện thi hành là bao lâu?",
+    "answers": [
+      "05 ngày kể từ ngày hết thời hạn tự nguyện thi hành án",
+      "07 ngày kể từ ngày hết thời hạn tự nguyện thi hành án",
+      "09 ngày kể từ ngày hết thời hạn tự nguyện thi hành án",
+      "10 ngày kể từ ngày hết thời hạn tự nguyện thi hành án"
+    ],
+    "correct_answer": "09 ngày kể từ ngày hết thời hạn tự nguyện thi hành án"
   }
 ];
